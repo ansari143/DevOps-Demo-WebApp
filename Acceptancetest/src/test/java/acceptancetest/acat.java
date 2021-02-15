@@ -13,8 +13,8 @@ public class acat {
 	//public WebDriver driver;
 	//testing commit
 	public WebDriverWait wait;
-	public String URL = "http://35.183.137.67:8080/ProdWebapp";
-	public String URL1 = "http://35.183.137.67:8080/ProdWebapp/avncreatepage.jsp";
+	public String URL = "http://35.182.208.64:8080/ProdWebapp";
+	public String URL1 = "http://35.182.208.64:8080/ProdWebapp/avncreatepage.jsp";
 	//public String URL = "http://localhost:8080/AVNCommunication-1.0/avnlogin.jsp";
 	//public String URL1 = "http://localhost:8080/AVNCommunication-1.0/avncreatepage.jsp";
 	
